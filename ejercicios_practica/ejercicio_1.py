@@ -1,29 +1,18 @@
-# Tipos de variables [Python]
-# Ejercicios de práctica
+numero_1 = 7
+numero_2 = 5
 
-# Autor: Inove Coding School
-# Version: 3.0
+suma = numero_1 + numero_2
 
-# IMPORTANTE: NO borrar los comentarios
-# que aparecen en verde con el hashtag "#"
+print(suma)
 
-# Ejercicios de práctica numérica
+resta = numero_2 - numero_1
 
-numero_1 = 5
-numero_2 = 7
+print(resta)
 
-# Realizar la suma de las dos variables
-# Crear una variable llamada suma donde se 
-# almacene el valor de la suma de las variable numero_1 y numero_2
-# ej:
-# suma = .....
+division = numero_1 / numero_2
 
-# Imprimir en pantalla el resultado de la suma
-# print(....)
+print(division)
 
-# Repita el procedimiento para realizar la resta
-# Crear una variable llamada resta donde se 
-# almacene el valor de la resta de numero_1 menos numero_2
+multiplicacion = numero_1 * numero_2
 
-
-# Imprimir en pantalla el resultado de la resta
+print(multiplicacion)
