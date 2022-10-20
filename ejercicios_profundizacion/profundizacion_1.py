@@ -46,3 +46,35 @@ Alumno:
 
 print('¡Nuestra primera calculadora!')
 # Empezar aquí la resolución del ejercicio
+
+numero_1 = float(input ("el primer numero decimal a ingresar es:"))
+
+numero_2 = float(input ("el segundo numero a ingresar es:"))
+
+suma = numero_1 + numero_2
+
+print(suma)
+
+resta = numero_1 - numero_2
+
+print(resta)
+
+multiplicacion = numero_1 * numero_2
+
+print(multiplicacion)
+
+division = numero_1 / numero_2
+
+print(division)
+
+exponente = numero_1 ** 2
+
+exponente_2 = numero_2 ** 2
+
+print(exponente)
+
+print(exponente_2)
+
+
+
+
