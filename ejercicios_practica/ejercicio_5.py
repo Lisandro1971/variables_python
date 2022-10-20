@@ -20,10 +20,16 @@ palabra_2 = str(input('Ingrese palabra 2:'))
 # De la segunda palabra tome las primeras dos letras
 # utilice el operador dos puntos 
 
+texto = palabra_1[0:3]
+
+texto_2 = palabra_2[0:2]
 # Alumno:
 # Crear una variable llamada palabra_combinada
 # con los recortes solicitados de las variables
 # palabra_1 y palabra_2 en el orden correspondiente
 
+palabra_combinada = texto + texto_2
 
 # Imprima en pantalla la variable palabra_combinada
+
+print(palabra_combinada)
